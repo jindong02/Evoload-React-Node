@@ -1,0 +1,33 @@
+https://freight-evoload-server.herokuapp.com/
+
+1.fix the X on notifications ///
+2.when click on notification go to the payload  ///
+  updated state - go to active freights new offer - go to my freights to see offers
+3.and delete notification permanently ///
+
+users:  Expeditor  ,  Transporter
+
+alemgermany@gmail.com
+
+"react-DatePick": "^4.16.0",
+
+NavBar.js  ///  https://github.com/codreanualexei/freight-frontend/commit/9c77b409f80248f2190002de9f14138d7cdbde18
+
+LoadDetailsCard.js ///  https://github.com/codreanualexei/freight-frontend/commit/6f93a387480123f5f1a0c34e75d1a726a0aaa4e8
+
+completedTransports.js  ///  https://github.com/codreanualexei/freight-frontend/commit/6f93a387480123f5f1a0c34e75d1a726a0aaa4e8
+
+Myfreights.js  ////  https://github.com/codreanualexei/freight-frontend/commit/e004296f035cb41ee5d3b0e0dfb326aac9f934df
+
+
+STAR1995329@gmail.com
+star2329
+
+
+
+https://app.enhancv.com/resume/64def22d0185f9c1589dc204
+
+2QKT-8ATN
+
+
+522bffd5744745d1a9089b110c211f06
